@@ -1,5 +1,7 @@
 # Taller-1-para
 
+1. **Ejercicio math.kt en archivos**
+   
 1. **¿Qué es paralelismo y cómo se diferencia de la concurrencia?**
    El paralelismo es la ejecución simultánea de múltiples tareas, mientras que la concurrencia se refiere a la capacidad de un sistema para gestionar múltiples tareas que pueden no ejecutarse al mismo tiempo. En resumen, el paralelismo es un tipo de concurrencia donde las tareas se ejecutan en paralelo.
 
